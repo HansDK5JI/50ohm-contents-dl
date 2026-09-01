@@ -1,4 +1,4 @@
-Im Amateurfunk gibt es unterschiedliche Arten von Rufzeichen. Eine Art haben wir schon am Anfang des Kurses kennengelernt: Die persönlichen Rufzeichen. In der Amtssprache nennen sich diese "personengebundene Rufzeichen". In Deutschland wird ein solches jedem Funkamateur mit der Zulassung für den Amateurfunkdienst durch die BNetzA zugeteilt. Es ist weltweit eindeutig und darf nur persönlich durch den Funkamateur verwendet werden, dem es zugeteilt wurde.
+Im Amateurfunk gibt es unterschiedliche Arten von Rufzeichen. Eine Art haben wir schon am Anfang des Kurses kennengelernt: die persönlichen Rufzeichen. In der Amtssprache nennen sich diese "personengebundene Rufzeichen". In Deutschland wird ein solches jedem Funkamateur mit der Zulassung für den Amateurfunkdienst durch die BNetzA zugeteilt. Es ist weltweit eindeutig und darf nur persönlich durch den Funkamateur verwendet werden, dem es zugeteilt wurde.
 
 [question:VC116]
 
