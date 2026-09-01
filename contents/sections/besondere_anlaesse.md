@@ -1,4 +1,4 @@
-Für besondere Anlässe, die von allgemeiner Bedeutung sind, wie z. B. historische Ereignisse, Stadtfeste und Sportereignisse, können Funkamateure in Deutschland, Klubstationsrufzeichen mit vier- bis siebenstelligem Suffix beantragen. So kann die ganze Amateurfunkwelt an einem Ereignis teilhaben.
+Für besondere Anlässe, die von allgemeiner Bedeutung sind, wie z. B. historische Ereignisse, Stadtfeste und Sportereignisse, können Funkamateure in Deutschland Klubstationsrufzeichen mit vier- bis siebenstelligem Suffix beantragen. So kann die ganze Amateurfunkwelt an einem Ereignis teilhaben.
 
 Diese speziellen Klubstationsrufzeichen werden von der BNetzA für maximal ein Jahr zugeteilt. Eine Verlängerung ist nicht möglich. Das Suffix kann, im Gegensatz zu den bisher erwähnten Rufzeichen, aus Ziffern und Buchstaben bestehen. Das letzte Zeichen muss immer ein Buchstabe sein. So sind zum Beispiel auch Kombinationen wie DP44N44T möglich.
 
