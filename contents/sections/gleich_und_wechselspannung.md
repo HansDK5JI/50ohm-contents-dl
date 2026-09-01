@@ -1,7 +1,7 @@
 Um Frequenz und Funkwellen zu erklären, müssen wir ein klein wenig ausholen und uns kurz mit der elektrischen Spannung beschäftigen. Alle Stoffe, die wir kennen, bestehen aus winzigen Teilchen - Holz, Wasser, Metalle und alles andere, sogar die Luft. Einige dieser Teilchen haben die Eigenschaft, sich gegenseitig anzuziehen oder abzustoßen. Man nennt sie "elektrisch geladen" und teilt sie in die Gruppen "positiv" (Plus) und "negativ" (Minus) ein  (Bild [ref:n_frequenz_elektrische_ladungen]) [index:Ladung].
 
 <margin>
-[picture:713:n_frequenz_elektrische_ladungen:Positiv und negativ geladene Teilchen gleichverteilt in einem Gegenstand.]
+[picture:713:n_frequenz_elektrische_ladungen:Positiv und negativ geladene Teilchen gleich verteilt in einem Gegenstand.]
 </margin>
 
 ---
