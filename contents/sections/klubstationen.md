@@ -46,7 +46,7 @@ Eine Klubstation darf von jedem Funkamateur genutzt werden, der über eine Zulas
 
 ---
 
-Ein Funkamateur mit der Zeugnisklasse N oder E darf auch an einer Klubstation der Klasse A Funkbetrieb machen, jedoch nur im Rahmen seiner Berechtigung. Umgekehrt darf ein Funkamateur mit Zeugnisklasse A an einer Klubstation der Klasse E oder N nur die jeweils für die Klasse E bzw. N zugelassenen Leistungen und Bänder verwenden. Das gleiche gilt entsprechend für alle anderen Kombinationen, so wie in der Tabelle [ref:n_klubstation_unterschiedliche_klassen] dargestellt.
+Ein Funkamateur mit der Zeugnisklasse N oder E darf auch an einer Klubstation der Klasse A Funkbetrieb machen, jedoch nur im Rahmen seiner Berechtigung. Umgekehrt darf ein Funkamateur mit Zeugnisklasse A an einer Klubstation der Klasse E oder N nur die jeweils für die Klasse E bzw. N zugelassenen Leistungen und Bänder verwenden. Das Gleiche gilt entsprechend für alle anderen Kombinationen, so wie in der Tabelle [ref:n_klubstation_unterschiedliche_klassen] dargestellt.
 
 <webmargin>
 | X: | c: Station N | c: Station E | c: Station A |
