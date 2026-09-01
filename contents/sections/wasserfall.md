@@ -26,6 +26,6 @@ Das *Wasserfalldiagramm* (Abbildung [ref:n_wasserfall_wasserfall]) hingegen zeig
 [question:NF105]
 [question:NF106]
 
-Man darf das Amplitudenspektrum nicht mit dem Oszillogramm verwechseln, das wir bereits kennengelernt haben. Das Amplitudenspektrum zeigt auf der horizontalen Achse, also von links nach rechts, die Amplituden für verschiedene Frequenzen an. Man kann also erkennen, welche Anteile die unterschiedlichen Frequenzen am Gesamtsignals haben. Beim Oszillogramm hingegen werden die Amplituden zu verschiedenen Zeitpunkten gezeigt. Von links nach rechts ist der zeitliche Verlauf zu sehen.
+Man darf das Amplitudenspektrum nicht mit dem Oszillogramm verwechseln, das wir bereits kennengelernt haben. Das Amplitudenspektrum zeigt auf der horizontalen Achse, also von links nach rechts, die Amplituden für verschiedene Frequenzen an. Man kann also erkennen, welche Anteile die unterschiedlichen Frequenzen am Gesamtsignal haben. Beim Oszillogramm hingegen werden die Amplituden zu verschiedenen Zeitpunkten gezeigt. Von links nach rechts ist der zeitliche Verlauf zu sehen.
 
 [question:NI401]
