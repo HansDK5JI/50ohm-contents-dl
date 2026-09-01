@@ -21,7 +21,7 @@ Die Ausbreitungsbedingungen unterliegen einem täglichen und jahreszeitlichen We
 
 ---
 
-Bei Funkbetrieb auf Kurzwellenbändern kann es dazu kommen, dass eine sogenannte *Tote Zone* [index:Tote Zone] entsteht. Damit sind Entfernungen gemeint, die für die Bodenwelle zu weit weg und für die Raumwelle zu nah sind (Abbildung [ref:n_ionosphaere_tote_zone]). Dies führt häufig dazu, dass man von einer laufenden Funkverbindung nur eine der beteiligten Stationen hören kann, weil sich die andere in der Toten Zone befindet. Dadurch kann zunächst der falsche Eindruck entstehen, dass eine Frequenz frei ist.
+Bei Funkbetrieb auf Kurzwellenbändern kann es dazu kommen, dass eine sogenannte *Tote Zone* [index:Tote Zone] entsteht. Damit sind Entfernungen zu Stationen gemeint, die für die Bodenwelle zu weit weg und für die Raumwelle zu nah sind (Abbildung [ref:n_ionosphaere_tote_zone]). Dies führt häufig dazu, dass man von einer laufenden Funkverbindung nur eine der beteiligten Stationen hören kann, weil sich die andere in der Toten Zone befindet. Dadurch kann zunächst der falsche Eindruck entstehen, dass eine Frequenz frei ist.
 
 <webmargin>
 [picture:741:n_ionosphaere_tote_zone:Die Tote Zone, die für die Bodenwelle zu weit weg und für die Raumwelle zu nah ist.]
