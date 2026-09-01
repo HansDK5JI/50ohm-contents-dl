@@ -37,6 +37,8 @@ Es gibt verschiedene Buchstabiertafeln, z. B. die deutsche, die österreichische
 
 Die Buchstabiertafel enthält jedoch keine Ziffern [index:Buchstabiertafel:Ziffern]. Im nationalen Funkverkehr spricht man Ziffern auf Deutsch aus, z. B. Delta Mike *Vier* Echo Alpha X-ray. Im internationalen Funkverkehr wird die englische Sprache verwendet, z. B. Delta Mike *Four* Echo Alfa X-ray.
 
+Für den Schrägstrich "/", der bei Rufzeichenzusätzen gebraucht wird, ist das englische Wort "Stroke" zu verwenden.
+
 Die Buchstabiertafel kann natürlich auch verwendet werden, um andere Wörter zu buchstabieren, z. B. einen Namen oder eine Ortsangabe. Die internationale Buchstabiertafel enthält jedoch keine deutschen Umlaute[index:Buchstabiertafel:Umlaute]. Daher wird das Ä als "Alfa Echo", das Ö als "Oscar Echo", das Ü als "Uniform Echo" und das ß als "Sierra Sierra" buchstabiert.
 
 In der Praxis wird bei der Rufzeichennennung auch mit anderen Möglichkeiten variiert, z. B. Nancy, Sugar, Ocean und Queen. Das ist zulässig, solange es *zusätzlich* zur Rufzeichennennung nach der internationalen Buchstabiertafel erfolgt, um die Verständlichkeit zu erhöhen.
