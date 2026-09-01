@@ -10,7 +10,7 @@ Diese Plattform dient der Vorbereitung auf die Prüfungen für die verschiedenen
 Diese Buchreihe dient der Vorbereitung auf die Prüfungen für die verschiedenen Amateurfunkklassen. Es ist zu beachten, dass die Prüflinge unterschiedliche Vorkenntnisse mitbringen. Für manche ist es ratsam, alle Prüfungen für die verschiedenen Klassen in aufeinanderfolgender Reihenfolge abzulegen, während andere den direkten Weg zur Klasse A bevorzugen. Einige finden im Selbststudium mit einem Buch oder einem Online-Kurs ausreichend Unterstützung, während andere einen Präsenzkurs oder einen persönlichen Ansprechpartner bevorzugen. Diese Buchreihe sowie die dazu gehörige Online-Plattform ist darauf ausgerichtet, all diese unterschiedlichen Lernstile zu bedienen.
 </latexonly>
 
-An dieser Stelle möchten wir uns herzlich bei allen Mitwirkenden bedanken, die am Entwurf des Fragenkatalogs, der Buchreihe, sowie an der Ausbildungsplattform beteiligt waren. Ohne dieses großartiges Team wäre die Realisierung dieses Projekts nicht möglich gewesen.
+An dieser Stelle möchten wir uns herzlich bei allen Mitwirkenden bedanken, die am Entwurf des Fragenkatalogs, der Buchreihe sowie an der Ausbildungsplattform beteiligt waren. Ohne dieses großartiges Team wäre die Realisierung dieses Projekts nicht möglich gewesen.
 
 vy 73 (Viele Grüße) und 55 (Viel Erfolg) wünschen
 Matthias Jung (DL9MJ) und Björn Swierczek (DL1PZ)
