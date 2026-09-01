@@ -2,7 +2,7 @@
 [photo:217:e_aurora:Aurora am Notfunk Ausbildungswochenende im Mai 2024]
 </margin>
 
-Wenn geladene Teilchen aus dem Sonnenwind in das Erdmagnetfeld einkoppeln, werden sie zu den Polen hin abgeleitet. Dort treffen sie auf die zunehmend dichtere Atmosphäre und ionisieren dort vor allem den Sauerstoff und Stickstoff der Hochatmosphäre bis herunter in eine Höhe von etwa $\qty{90}{\kilo\meter}$, also den Bereich der E-Region. Die so angeregten Atome und Moleküle erzeugen dann zum einen die Lichterscheinungen der Polarlichter, zum anderen brechen sie Funkwellen. Das wird vorwiegend im VHF Bereich ($\qty{6}{\meter}$ und $\qty{2}{\meter}$-Band) für DX-Verbindungen genutzt.
+Wenn geladene Teilchen aus dem Sonnenwind in das Erdmagnetfeld einkoppeln, werden sie zu den Polen hin abgeleitet. Dort treffen sie auf die zunehmend dichtere Atmosphäre und ionisieren dort vor allem den Sauerstoff und Stickstoff der Hochatmosphäre bis herunter in eine Höhe von etwa $\qty{90}{\kilo\meter}$, also den Bereich der E-Region. Die so angeregten Atome und Moleküle erzeugen dann zum einen die Lichterscheinungen der Polarlichter, zum anderen brechen sie Funkwellen. Das wird vorwiegend im VHF-Bereich ($\qty{6}{\meter}$ und $\qty{2}{\meter}$-Band) für DX-Verbindungen genutzt.
 
 ---
 
