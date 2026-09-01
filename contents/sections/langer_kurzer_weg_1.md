@@ -1,4 +1,4 @@
-Funkwellen breiten sich geradlinig aus. Um zwei Orte auf der Erdoberfläche zu verbinden, gibt es daher immer genau zwei Wege (es sei denn, die beiden Orte befinden sich genau gegenüber). Daraus ergibt sich die Richtung, in die eine Richtantenne gedreht werden muss. Die Funkverbindung läuft also nicht über den direkten Weg zur Gegenstation, sondern über die dem kürzesten Weg entgegengesetzte Richtung.
+Funkwellen breiten sich geradlinig aus. Um zwei Orte auf der Erdoberfläche zu verbinden, gibt es daher immer genau zwei Wege: ein langer Weg und ein kurzer Weg (es sei denn, die beiden Orte befinden sich genau gegenüber voneinander). Daraus ergibt sich die Richtung, in die eine Richtantenne gedreht werden muss. Über den langen Weg läuft die Funkverbindung also nicht über den direkten Weg zur Gegenstation, sondern über die dem kurzen Weg entgegengesetzte Richtung.
 
 [question:EH216]
 
