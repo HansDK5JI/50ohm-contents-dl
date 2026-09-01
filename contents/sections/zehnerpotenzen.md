@@ -23,7 +23,7 @@ Leider kann man diese gezeigten Einheitenvorsätze nicht direkt in jeden Taschen
 
 ---
 
-Schauen wir uns das zunächst am Beispiel des Vorsatzes Kilo an, der für $1000$ steht: Statt $1000$ kann man auch $10 \cdot 10 \cdot 10$ schreiben. Dafür gibt es die Abkürzung $10^3$ (gesprochen "10 hoch 3" oder "3. Potenz von 10"). Die Angaben $\qty{1500}{\hertz}$, $\qty{1,5}{\kilo\hertz}$ und $\qty{1,5e3}{\hertz}$ stehen für den selben Wert.
+Schauen wir uns das zunächst am Beispiel des Vorsatzes Kilo an, der für $1000$ steht: Statt $1000$ kann man auch $10 \cdot 10 \cdot 10$ schreiben. Dafür gibt es die Abkürzung $10^3$ (gesprochen "10 hoch 3" oder "3. Potenz von 10"). Die Angaben $\qty{1500}{\hertz}$, $\qty{1,5}{\kilo\hertz}$ und $\qty{1,5e3}{\hertz}$ stehen für denselben Wert.
 
 <tip>
 Man kann es sich auch anders merken: Man multipliziert die Zahl so oft mit 10, wie die Hochzahl (der Exponent) angibt. Bei Zahlen ohne Komma hängt man einfach so viele Nullen an, wie im Exponent steht.
@@ -47,7 +47,7 @@ Die Anzeige besonders großer oder kleiner Werte hängt vom Gerät ab. Manche sc
 
 ---
 
-Abbildung [ref:e_taschenrechner] zeigt drei Darstellungen der selben Zahl in einer Taschenrechner-App. Die drei Buttons für den Umgang mit Zehnerpotenzen wurden rot markiert.
+Abbildung [ref:e_taschenrechner] zeigt drei Darstellungen derselben Zahl in einer Taschenrechner-App. Die drei Buttons für den Umgang mit Zehnerpotenzen wurden rot markiert.
 
 <margin>
 [photo:172:e_taschenrechner:Verschiedene Darstellungen der Zahl 0,007 in einer Taschenrechner-App]
