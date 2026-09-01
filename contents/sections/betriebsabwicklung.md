@@ -20,7 +20,7 @@ Wenn darauf keine Antwort folgt, kann davon ausgegangen werden, dass die Frequen
 
 ---
 
-Die Antwort erfolgt bei allgemeinen und gezielten Anrufen auf die gleiche Art. Man nennt erst das Rufzeichen der anrufenden Station und dann das eigene Rufzeichen.
+Die Antwort erfolgt bei allgemeinen und gezielten Anrufen auf die gleiche Art. Man nennt erst das Rufzeichen der angerufenen Station und dann das eigene Rufzeichen.
 
 <qso>
 DL9MJ von DL1PZ bitte kommen
