@@ -1,4 +1,4 @@
-Eine Relaisfunkstelle ermöglicht eine größere Reichweite als dies bei direkter Verbindung zwischen zwei Amateurfunkstellen oftmals möglich ist. Relaisfunkstellen werden meist an exponierten Standorten, z. B. auf Berggipfeln, Hochhäusern, Kirch- und sonstigen Türmen, errichtet. Es gibt auch Relaisfunkstellen in Satelliten, die um die Erde kreisen. Aufbau und Funktion einer solchen Funkstelle sind in Bild [ref:n_relaisfunkstellen_aufbau] dargestellt. 
+Eine Relaisfunkstelle ermöglicht eine größere Reichweite, als dies bei direkter Verbindung zwischen zwei Amateurfunkstellen oftmals möglich ist. Relaisfunkstellen werden meist an exponierten Standorten, z. B. auf Berggipfeln, Hochhäusern, Kirch- und sonstigen Türmen, errichtet. Es gibt auch Relaisfunkstellen in Satelliten, die um die Erde kreisen. Aufbau und Funktion einer solchen Funkstelle sind in Bild [ref:n_relaisfunkstellen_aufbau] dargestellt. 
 
 [picture:648:n_relaisfunkstellen_aufbau:Schematische Darstellung einer Relaisfunkstelle mit Nutzern]
 
@@ -41,7 +41,7 @@ Beispielsweise wird die Frequenz eines $\qty{70}{\centi\meter}$ Relais so angege
 Einige Relaisfunkstationen arbeiten auch im sogenannten *Crossband-Betrieb*. Das bedeutet: Eine Station sendet und empfängt auf einem Band (z. B. $\qty{70}{\centi\meter}$), eine andere Station auf dem gleichen Relais, aber auf einem anderen Band (z. B. $\qty{2}{\meter}$). Die Relaissteuerung vermittelt die Gespräche auf die beiden Bänder. Es kann auch eine Umsetzung der Sendeart erfolgen, beispielsweise von SSB auf FM.
 </indepth>
 
-Eine Relaisstation, die nicht Sprache sondern Daten übermittelt, wird Digipeater genannt. Ein Digipeater ist in der Lage, Datenpakete zu empfangen und wieder auszusenden. Hierbei ist die Besonderheit, dass die Aussendung nur in Teilen oder zeitversetzt geschehen kann. Ebenso können Datenpakete wiederholt oder einzelne Datenfelder geändert werden.
+Eine Relaisstation, die nicht Sprache, sondern Daten übermittelt, wird Digipeater genannt. Ein Digipeater ist in der Lage, Datenpakete zu empfangen und wieder auszusenden. Hierbei ist die Besonderheit, dass die Aussendung nur in Teilen oder zeitversetzt geschehen kann. Ebenso können Datenpakete wiederholt oder einzelne Datenfelder geändert werden.
 
 [question:NF118]
 
@@ -60,7 +60,7 @@ Eine wichtige Einstellung ist die Kanalbandbreite bei FM-Betrieb. Wir erinnern u
 
 [question:BE407]
 
-Der Funkbetrieb über fernbediente Amateurfunkstellen ist grundsätzlich allen Funkamateuren mit zugeteiltem Rufzeichen zu gestatten. Zur Sicherstellung eines störungsfreien Betriebs kann der Betreiber allerdings andere Funkamateure von der Nutzung der Amateurfunkstelle ausschließen. Die BNetzA ist hiervon zu unterrichten.
+Der Funkbetrieb über fernbediente Amateurfunkstellen ist grundsätzlich allen Funkamateuren mit zugeteiltem Rufzeichen gestattet. Zur Sicherstellung eines störungsfreien Betriebs kann der Betreiber allerdings andere Funkamateure von der Nutzung der Amateurfunkstelle ausschließen. Die BNetzA ist hiervon zu unterrichten.
 
 [question:VD504]
 
