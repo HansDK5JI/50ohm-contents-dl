@@ -1,7 +1,7 @@
 Mit einer Amateurfunkzulassung ist es unter bestimmten Voraussetzungen möglich, auch im Ausland Funkbetrieb aufzunehmen. Dazu haben viele Staaten ein Abkommen geschlossen, welches Funkbetrieb bei vorübergehendem Aufenthalt im Ausland und die gegenseitige Anerkennung von Amateurfunkzeugnissen regelt.
 Das Abkommen wurde durch die Mitgliedsstaaten der *Europäischen Konferenz der Verwaltungen für Post und Telekommunikation* (Conférence Européenne des Administrations des Postes et des Télécommunications, CEPT) ausgearbeitet.
 
-Das Abkommen der CEPT besteht aus den in der Tabelle [ref:n_funken_im_ausland_cept_empfehlungen] genannten Empfehlungen. Keine Sorge, die einzelnen Empfehlungen muss man nicht auswendig lernen. In der Prüfung reicht es, die wichtigsten Regelungen zu kennen.
+Das Abkommen der CEPT besteht aus den in der Tabelle [ref:n_funken_im_ausland_cept_empfehlungen] genannten Empfehlungen. Keine Sorge, die einzelnen Empfehlungen muss man nicht auswendig lernen. In der Prüfung reicht es, die wichtigsten Regelungen zu kennen. In den Prüfungsfragen wird die deutsche Übersetzung ECC-Empfehlung verwendet oder auch schlicht weggelassen.
 
 <margin>
 | l: CEPT-Empfehlung | X: Erläuterung |
