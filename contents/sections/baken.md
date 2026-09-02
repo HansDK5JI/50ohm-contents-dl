@@ -10,7 +10,7 @@ Da ihre Empfangbarkeit stark von den wechselnden Ausbreitungsbedingungen des jew
 
 ---
 
-Das Internationale Bakenprojekt (IBP) besteht aus einer größeren Anzahl von Baken, die in mehreren Ländern auf allen Kontinenten verteilt sind. Sie senden in einem festgelegten zeitlichen Ablauf nacheinander jeweils einige Sekunden lang, alle auf der gleichen Frequenz eines Kurzwellenbandes. Hierdurch kannst du dir sehr schnell einen Überblick über die aktuellen Ausbreitungsbedingungen auf dem jeweiligen Band verschaffen.
+Das Internationale Bakenprojekt (IBP) besteht aus einer größeren Anzahl von Baken, die in mehreren Ländern auf allen Kontinenten verteilt sind. Sie senden in einem festgelegten zeitlichen Ablauf nacheinander jeweils einige Sekunden lang, alle auf derselben Frequenz eines Kurzwellenbandes. Hierdurch kannst du dir sehr schnell einen Überblick über die aktuellen Ausbreitungsbedingungen auf dem jeweiligen Band verschaffen.
 
 Baken werden in den IARU-Bandplänen spezielle Frequenzbereiche zugewiesen. Auf Bakenfrequenzen sollte niemals Funkbetrieb abgewickelt werden. In der Tabelle [ref:n_baken_frequenzbereiche] finden sich die Bakenfrequenzen des Kurzwellenbereiches. Alle weiteren ausgewiesenen Bakenfrequenzbereiche finden sich in den Bandplänen des jeweiligen Frequenzbandes.
 
