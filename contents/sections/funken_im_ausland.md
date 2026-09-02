@@ -1,14 +1,14 @@
 Mit einer Amateurfunkzulassung ist es unter bestimmten Voraussetzungen möglich, auch im Ausland Funkbetrieb aufzunehmen. Dazu haben viele Staaten ein Abkommen geschlossen, welches Funkbetrieb bei vorübergehendem Aufenthalt im Ausland und die gegenseitige Anerkennung von Amateurfunkzeugnissen regelt.
 Das Abkommen wurde durch die Mitgliedsstaaten der *Europäischen Konferenz der Verwaltungen für Post und Telekommunikation* (Conférence Européenne des Administrations des Postes et des Télécommunications, CEPT) ausgearbeitet.
 
-Das Abkommen der CEPT besteht aus den in der Tabelle [ref:n_funken_im_ausland_cept_empfehlungen] genannten Reports (Berichte) und Recommendations (Empfehlungen). Keine Sorge, die einzelnen Empfehlungen muss man nicht auswendig lernen. In der Prüfung reicht es, die wichtigsten Regelungen zu kennen. In den Prüfungsfragen wird die deutsche Übersetzung ECC-Empfehlung verwendet oder auch schlicht weg gelassen.
+Das Abkommen der CEPT besteht aus den in der Tabelle [ref:n_funken_im_ausland_cept_empfehlungen] genannten Reports (Berichte) und Recommendations (Empfehlungen). Keine Sorge, die einzelnen Empfehlungen muss man nicht auswendig lernen. In der Prüfung reicht es, die wichtigsten Regelungen zu kennen. In den Prüfungsfragen wird die deutsche Übersetzung ECC-Empfehlung verwendet oder auch schlicht weggelassen.
 
 <margin>
 | l: CEPT-Dokument | Bezeichnung | X: Erläuterung |
-| ECC Report 89 | Radio Amateur Entry Level Examination and Licence | Lehrplan für die Entry Level License (in Deutschland Klasse N) |
-| ECC Recommendation (05) 06 | CEPT Novice Radio Amateur Licence | Empfehlung zur kurzzeitigen Nutzung der Novice Licence im Ausland |
-| ERC Report 32 | | Lehrplan für die Novice License (in Deutschland Klasse E) |
-| ECC Recommendation T/R 61-01 | CEPT Radio Amateur Licence | Empfehlung zur kurzzeitigen Nutzung der HAREC-Bescheinung im Ausland |
+| ECC Report 89 | Radio Amateur Entry Level Examination and Licence | Lehrplan für die Einsteigerlizenz (in Deutschland Klasse N) |
+| ECC Recommendation (05) 06 | CEPT Novice Radio Amateur Licence | Empfehlung zur kurzzeitigen Nutzung der Novice-Lizenz im Ausland |
+| ERC Report 32 | | Lehrplan für die Novice-Lizenz (in Deutschland Klasse E) |
+| ECC Recommendation T/R 61-01 | CEPT Radio Amateur Licence | Empfehlung zur kurzzeitigen Nutzung der Voll-Lizenz im Ausland |
 | ECC Recommendation T/R 61-02 | Harmonized Amateur Radio Examination Certificate (HAREC) | Gegenseitige Anerkennung von Amateurfunkzeugnissen der CEPT Radio Amateur Licence bei Umzug ins Ausland und Lehrplan (in Deutschland Klasse A) |
 [table:n_funken_im_ausland_cept_empfehlungen:CEPT-Empfehlungen]
 </margin>
@@ -44,11 +44,11 @@ Die Trennung zwischen dem ausländischen Präfix und dem eigenen Rufzeichen soll
 [question:BD213]
 [question:BD214]
 
-Aktuell darf mit der Klasse N nicht im Ausland gefunkt werden, da Deutschland die Klasse N noch nicht der CEPT als Entry Level License gemeldet hat. Die Zulassungsklasse N ist somit nur in Deutschland gültig.
+Aktuell darf mit der Klasse N nicht im Ausland gefunkt werden, da Deutschland die Klasse N noch nicht der CEPT als Entry Level Licence gemeldet hat. Die Zulassungsklasse N ist somit nur in Deutschland gültig.
 
 [question:VB105]
 
-Ausländischen Funkamateure dürfen auf Grundlage der CEPT-Regelungen in Deutschland Funkbetrieb aufnehmen. Je nachdem welcher Klasse die Amateurfunkzulassung aus dem Heimatland in Deutschland zugeordnet ist, muss er das Prefix *DL/* oder *DO/* seinem persönlichen Rufzeichen voranstellen.
+Ausländische Funkamateure dürfen auf Grundlage der CEPT-Regelungen in Deutschland Funkbetrieb aufnehmen. Je nachdem, welcher Klasse die Amateurfunkzulassung aus dem Heimatland in Deutschland zugeordnet ist, muss er das Präfix *DL/* oder *DO/* seinem persönlichen Rufzeichen voranstellen.
 
 [question:VB110]
 [question:BD212]
@@ -69,7 +69,7 @@ Wie in Deutschland gibt es in den einzelnen CEPT-Ländern unterschiedliche natio
 Durchquert man bei einer Reise ein Land, in dem die Amateurfunkzulassung nicht anerkannt wird, sollte man sich vorher informieren, ob Funkgeräte transportiert werden dürfen, und sich gegebenenfalls eine entsprechende Erlaubnis einholen. Das [DARC-Auslandsreferat](https://50ohm.de/ra) kann Mitgliedern bei der Klärung dieser Fragen helfen.
 </tip>
 
-Verlegt man seinen Wohnsitz länger als 3 Monate oder dauerhaft ins Ausland, kann man auf Grundlage der Harmonized Amateur Radio Examination Certificate (HAREC) Bescheinigung dort vereinfacht eine Amateurfunkzulassung beantragen, ohne erneut eine Prüfung ablegen zu müssen. Das deutsche Amateurfunkzeugnis der Klasse A ist gleichzeitig eine HAREC-Bescheinigung.
+Verlegt man seinen Wohnsitz länger als 3 Monate oder dauerhaft ins Ausland, kann man auf Grundlage des Harmonized Amateur Radio Examination Certificate (HAREC) dort vereinfacht eine Amateurfunkzulassung beantragen, ohne erneut eine Prüfung ablegen zu müssen. Das deutsche Amateurfunkzeugnis der Klasse A ist gleichzeitig eine HAREC-Bescheinigung.
 
 [question:VB102]
 [question:VB103]
