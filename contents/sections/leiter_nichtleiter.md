@@ -7,7 +7,7 @@ Die *Leitfähigkeit* ist eine Materialeigenschaft, die von der inneren atomaren 
 </indepth>
 
 <indepth>
-Der *Widerstand* ist das Gegenteil der Leitfähigkeit. Ein Material, das gut leitet, hat einen geringeren Widerstand als ein Material das schlecht leitet - und andersherum: ein schlecht leitendes Material hat einen höheren Widerstand als ein gut leitendes.
+Der *Widerstand* ist das Gegenteil der Leitfähigkeit. Ein Material, das gut leitet, hat einen geringeren Widerstand als ein Material, das schlecht leitet - und andersherum: ein schlecht leitendes Material hat einen höheren Widerstand als ein gut leitendes.
 </indepth>
 
 <margin>
