@@ -1,7 +1,7 @@
-Damit es nicht zur Schlagzeile *"Funkamateur erleidet gefährlichen Stromschlag beim Senderbau"* kommt, müssen wichtige Regeln beachtet werden. Beim Aufbau einer Funkstation muss man sich an die anerkannten Regeln der Technik halten. Wie wir schon beim Thema Blitzschutz und Potentialausgleich gelernt haben, gibt der Verband der Elektrotechnik Elektronik und Informationstechnik e. V., kurz VDE, Normen heraus, die den jeweils aktuellen Stand der Technik dokumentieren und als anerkannt gelten. Diese Regeln dienen dem Schutz von Menschen, Tieren und Sachen.
+Damit es nicht zur Schlagzeile *"Funkamateur erleidet gefährlichen Stromschlag beim Senderbau"* kommt, müssen wichtige Regeln beachtet werden. Beim Aufbau einer Funkstation muss man sich an die anerkannten Regeln der Technik halten. Wie wir schon beim Thema Blitzschutz und Potentialausgleich gelernt haben, gibt der Verband der Elektrotechnik Elektronik Informationstechnik e. V., kurz VDE, Normen heraus, die den jeweils aktuellen Stand der Technik dokumentieren und als anerkannt gelten. Diese Regeln dienen dem Schutz von Menschen, Tieren und Sachen.
 
 <indepth>
-Der VDE, also der Verband der Elektrotechnik Elektronik und Informationstechnik e. V., ist eine weltweit tätige Organisation, in der sich Personen und Unternehmen zusammengeschlossen haben, die in den Bereichen Elektrotechnik, Elektronik oder Informationstechnik tätig sind. Die Organisation verfolgt das Ziel, die Unfallverhütung zu verbessern und das Verantwortungsbewusstsein seiner Mitglieder zu fördern. Dazu werden die VDE-Normen herauszugeben. Es werden aber beispielsweise auch kostenpflichtige Zertifizierungen durchgeführt.
+Der VDE, also der Verband der Elektrotechnik Elektronik Informationstechnik e. V., ist eine weltweit tätige Organisation, in der sich Personen und Unternehmen zusammengeschlossen haben, die in den Bereichen Elektrotechnik, Elektronik oder Informationstechnik tätig sind. Die Organisation verfolgt das Ziel, die Unfallverhütung zu verbessern und das Verantwortungsbewusstsein seiner Mitglieder zu fördern. Dazu werden die VDE-Normen herauszugeben. Es werden aber beispielsweise auch kostenpflichtige Zertifizierungen durchgeführt.
 </indepth>
 
 [question:VE601]
@@ -31,7 +31,7 @@ Stromunfälle können verschiedene Auswirkungen auf den Körper haben:
 * *Sekundärunfälle* wie einen Sturz, verursacht durch den hervorgerufenden Schreck oder eine Muskelverkrampfung
 
 <attention>
-Die *5 Sicherheitsregeln der Elektrotechnik* sollten für alle Arbeiten an elektrischen Anlagen beachten werden. Diese sollten auch bei Arbeiten an Funkgeräten oder anderen elektrischen Geräten beachtet werden:
+Die *5 Sicherheitsregeln der Elektrotechnik* sollten für alle Arbeiten an elektrischen Anlagen beachtet werden. Diese sollten auch bei Arbeiten an Funkgeräten oder anderen elektrischen Geräten beachtet werden:
 1. *Freischalten*, z. B. Gerät ausschalten
 2. *Gegen Wiedereinschalten sichern*, z. B.  Stecker ziehen
 3. *Spannungsfreiheit feststellen*, z. B. mit einem Multimeter messen
@@ -46,12 +46,12 @@ In vielen Geräten sind Kondensatoren verbaut, die hohe Spannungen speichern kö
 ---
 
 %[class:N]
-Wie wir schon beim Einbau von Amateurfunkanlagen in Kraftfahrzeuge gelernt haben, kann es im Zusammenhang mit elektrischem Strom auch dazu kommen, dass ein Stromfluß durch die eigentlich nicht-leitende Luft auftritt und es zu einem Lichtbogen mit hohen Temperaturen und sehr hellem Leuchten kommt. Dies wird auch als Störlichtbogen bezeichnet.
+Wie wir schon beim Einbau von Amateurfunkanlagen in Kraftfahrzeuge gelernt haben, kann es im Zusammenhang mit elektrischem Strom auch dazu kommen, dass ein Stromfluß durch die eigentlich nicht leitende Luft auftritt und es zu einem Lichtbogen mit hohen Temperaturen und sehr hellem Leuchten kommt. Dies wird auch als Störlichtbogen bezeichnet.
 %[/class]
 
 %[class:NEA]
 <danger>
-Ein *Lichtbogen* ist eine elektrische Entladung, also ein Stromfluß, durch die eigentlich nicht-leitende Luft, die mit hohen Temperaturen und einem sehr hellen Leuchten einhergeht. In Folge kann es zu Bränden und zur Schädigung der Augen kommen.
+Ein *Lichtbogen* ist eine elektrische Entladung, also ein Stromfluss durch die eigentlich nicht leitende Luft, die mit hohen Temperaturen und einem sehr hellen Leuchten einhergeht. In Folge kann es zu Bränden und zur Schädigung der Augen kommen.
 </danger>
 
 Im Falle eines Kurzschlusses kann es schnell zu einem Lichtbogen kommen, der Brände verursachen kann.
